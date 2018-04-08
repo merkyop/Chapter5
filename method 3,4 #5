@@ -1,0 +1,23 @@
+package yeeeeeeeeeeeeeeeeeeeeee;
+
+//java 6
+//Prog - method 3 & 4 #5
+import java.util.Scanner;
+
+import javax.print.DocFlavor.STRING;
+public class yeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee{
+public static void main(String [ ] args){
+Scanner scancer = new Scanner(System.in);
+System.out.print("give number");
+int number = scancer.nextInt();
+money(number);
+}
+
+public static void money(int dupe)
+{
+	
+for(int spam=0;spam<=dupe;spam++)
+{	
+int fold=dupe+spam;	
+System.out.print(fold);	
+}}}
